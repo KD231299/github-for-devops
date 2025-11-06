@@ -16,3 +16,5 @@ git clone URL - copy to locals(github to locals)
 fork (github to github)
 
 git branch
+
+git fetch (fetch branch github to local)
