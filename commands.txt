@@ -14,3 +14,5 @@ git pull origin - pull changes github to file/folder
 
 git clone URL - copy to locals(github to locals)
 fork (github to github)
+
+git branch
