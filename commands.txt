@@ -1,1 +1,11 @@
 commands for git
+
+git init - initiallize empty repo
+git add - add file to git (untrecced to added)
+git commit -m "message" - (added to trecked)
+git status - to check file/folder status
+git restore - restore deleted file/folder from locals (after trecked)
+
+git remote -v - redirecting URL for push file/folder to github
+git remote det-url origin - set URL with github token
+git push origin - push file/folder to github
